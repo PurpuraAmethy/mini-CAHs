@@ -1,0 +1,73 @@
+{
+  "id": "20260606-144409-c37eb8",
+  "created_at": "2026-06-06T06:44:09.073759+00:00",
+  "workspace_root": "/home/xuling/zhangziyan/2_shixi/mini-CAHs",
+  "history": [],
+  "memory": {
+    "working": {
+      "task_summary": "",
+      "recent_files": []
+    },
+    "episodic_notes": [],
+    "file_summaries": {},
+    "task": "",
+    "files": [],
+    "notes": [],
+    "next_note_index": 0,
+    "durable_topics": []
+  },
+  "checkpoints": {
+    "current_id": "",
+    "items": {}
+  },
+  "runtime_identity": {
+    "session_id": "20260606-144409-c37eb8",
+    "cwd": "/home/xuling/zhangziyan/2_shixi/mini-CAHs",
+    "model": "gpt-5.4",
+    "model_client": "OpenAICompatibleModelClient",
+    "approval_policy": "ask",
+    "read_only": false,
+    "max_steps": 50,
+    "max_new_tokens": 8192,
+    "feature_flags": {
+      "memory": true,
+      "relevant_memory": true,
+      "context_reduction": true,
+      "prompt_cache": true
+    },
+    "shell_env_allowlist": [
+      "HOME",
+      "LANG",
+      "LC_ALL",
+      "LC_CTYPE",
+      "LOGNAME",
+      "PATH",
+      "PWD",
+      "SHELL",
+      "TERM",
+      "TMPDIR",
+      "TMP",
+      "TEMP",
+      "USER"
+    ],
+    "workspace_fingerprint": "850b32cfb8429df1abd7d2ad0ce6bc30de459f13d4060f30a8c3720228a57a02",
+    "tool_signature": "5281046eaf9a7c74e03fcea91f10160cca4d5af8660921b301ba52d14651c1c9"
+  },
+  "resume_state": {
+    "status": "no-checkpoint",
+    "stale_paths": [],
+    "runtime_identity_mismatch_fields": [],
+    "stale_summary_invalidations": 0
+  },
+  "runtime_mode": {
+    "mode": "default"
+  },
+  "todos": {
+    "next_id": 1,
+    "items": []
+  },
+  "workers": {
+    "next_id": 1,
+    "items": []
+  }
+}
